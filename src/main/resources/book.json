@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "Java核心技术",
+  "author":"Cay S. Horstmann",
+  "isbn": "1234567",
+  "tags": ["Java", "Network"],
+  "pubDate": "2020-05-01",
+  "price": "999,999,999,999,999,999,999,999.999"
+}
